@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="words_played" />
+          <option value="words_guessed" />
+          <option value="total_points" />
+          <option value="mean" />
+          <option value="stdev" />
+          <option value="data_list" />
+          <option value="guessed_letters" />
+          <option value="word" />
+          <option value="correct_guesses" />
+          <option value="incorrect_guesses" />
+          <option value="hangman" />
+          <option value="word_display" />
+          <option value="game_class_number" />
+          <option value="game_number" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
